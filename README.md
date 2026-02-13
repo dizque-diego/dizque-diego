@@ -5,6 +5,7 @@
 - 📫 you can contact me through my email diegoingenieria98@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a psychologyst with a master's degree
+- 🕹️ Currently developing a Game on UE5
 
 <!---
 dizque-diego/dizque-diego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
